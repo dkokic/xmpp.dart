@@ -1,0 +1,12 @@
+name: xmpp
+version: 0.0.1
+description: An implementation of XMPP.
+author: Draško Kokić <drasko.kokic+xmpp@googlemail.com>
+homepage: https://github.com/dkokic/dart-xmpp
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+#  foo_bar: '>=1.0.0 <2.0.0'
+  xmlstream: ">=0.9.1 <0.10.0"
+dev_dependencies:
+  unittest: any
